@@ -19,3 +19,6 @@ The analysis is performed in the `Stock_Price_Prediction.ipynb` notebook using:
 1. Clone this repository.
 2. Ensure you have `pandas`, `numpy`, `matplotlib`, and `scikit-learn` installed.
 3. Run the Jupyter Notebook to see the results.
+## 📄 Documentation
+For a detailed analysis of the methodology, results, and conclusions, please refer to the full project report:
+* [Download Project Report (PDF)](AI%20PROJECT%20Stock%20Price%20Prediction%20Using%20Regression%20Models.pdf)
